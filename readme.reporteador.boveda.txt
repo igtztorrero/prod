@@ -7,6 +7,8 @@ Instalacion
 	Descargar www.sait.com.mx/download/reporteador.boveda.zip
 	Instalar los archivos incluidos en el directorio de la empresa
 
+Aqui vamos a agregar algunos comentarios de este cambios
+Ademas queremos mencionar que aqui y alla se puede hacer esto
 
 Instrucciones de Uso
 ====================
@@ -32,6 +34,7 @@ Instrucciones de Uso
 		Y regresara un PDF con el resultado
 		En caso de error se guardarn en el archivo cfdiboveda.txt
 
+OK Doky
 
 Tabla de Expresiones para Reporteador de Boveda
 ================================================
